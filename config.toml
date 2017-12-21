@@ -9,11 +9,15 @@ theme = "local-ea-template"
 
 [params]
   fullTitle = "Effective Altruism – New New York"
+  legalOrgName = "Effective Altruism NNY"
   strapline = "In the future, helping you do good better"
   firstButtonText = "Get updates"
   firstButtonLink = "http://ealondon.us5.list-manage.com/subscribe/post?u=7438f1bb80988376e9cae8c11&id=182579324a&SOURCE=Homepage&OPTIN=True&SUBREASON=you%20signed%20up%20to%20this%20list%20on%20the%20EA%20London%20website."
   secondButtonText = "Join us on Facebook"
   secondButtonLink = "https://www.youtube.com/watch?v=Lzw6nRnaQG0"
   contactEmail = "bender@futurama.org"
+  facebookUrl = "https://www.facebook.com/groups/OMfCT/"
+  twitterUrl = "https://twitter.com/effect_altruism"
+  meetupUrl = "https://www.meetup.com/Effective-Altruism-NYC/"
 
 # replace public/img/city-banner.jpg with an image of your choice!
