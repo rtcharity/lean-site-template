@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EA NNY</title>
+    <link>http://henrystanley.com/ea-london-ng/</link>
+    <description>Recent content on EA NNY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="http://henrystanley.com/ea-london-ng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://henrystanley.com/ea-london-ng/_footer-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://henrystanley.com/ea-london-ng/_footer-left/</guid>
+      <description> Read more  Intro to effective altruism Video: The Why and How of Effective Altruism Giving 101: The Basics Doing Good Better by Will MacAskill Centre for Effective Altruism  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://henrystanley.com/ea-london-ng/_footer-legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://henrystanley.com/ea-london-ng/_footer-legal/</guid>
+      <description>© 2017 Effective Altruism London
+Effective Altruism London is a registered charity in England and Wales, Registered Charity Number 1170614</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://henrystanley.com/ea-london-ng/_footer-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://henrystanley.com/ea-london-ng/_footer-right/</guid>
+      <description> Useful links  effectivealtruism.org 80000 Hours GiveWell The Life You Can Save Centre for Effective Altruism  </description>
+    </item>
+    
+  </channel>
+</rss>

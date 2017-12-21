@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://henrystanley.com/ea-london-ng/_footer-left/</loc>
+  </url>
+  
+  <url>
+    <loc>http://henrystanley.com/ea-london-ng/_footer-legal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://henrystanley.com/ea-london-ng/_footer-right/</loc>
+  </url>
+  
+  <url>
+    <loc>http://henrystanley.com/ea-london-ng/</loc>
+  </url>
+  
+  <url>
+    <loc>http://henrystanley.com/ea-london-ng/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://henrystanley.com/ea-london-ng/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
