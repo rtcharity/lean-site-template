@@ -5,4 +5,4 @@
 * [GiveWell](https://www.givewell.org/)
 * [The Life You Can Save](https://www.thelifeyoucansave.org/)
 * [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/)
-* [Rethink Charity](https://www.rtcharity.org/)
+* [Rethink Charity](https://rtcharity.org/)
