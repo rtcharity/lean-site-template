@@ -69,10 +69,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
-  firstButtonLink = ""
-  secondButtonText = "Second Button Text"
-  secondButtonLink = ""
+  firstButtonText = "Join us on Facebook"
+  firstButtonLink = "https://www.facebook.com/groups/effectivealtruismmelbourne/"
+  secondButtonText = "Find us on Meetup"
+  secondButtonLink = "https://www.meetup.com/en-AU/EAMelbourne/"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
