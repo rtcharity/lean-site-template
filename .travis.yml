@@ -8,9 +8,19 @@ script:
 
 # Deploy to GitHub pages
 deploy:
-  provider: pages
-  skip_cleanup: true
-  local_dir: public
-  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
-  on:
-    branch: master
+  - provider: pages
+    skip_cleanup: true
+    local_dir: public
+    github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+    on:
+      branch: master
+  - provider: s3
+    access_key_id: $S3_IAM_KEY
+    secret_access_key: $S3_IAM_SECRET
+    bucket: "eamelbourne-website"
+    skip_cleanup: true
+    local_dir: public
+    on:
+      branch: master
+
+
