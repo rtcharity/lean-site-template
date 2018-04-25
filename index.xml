@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local EA Website</title>
+    <link>https://rtcharity.github.io/lean-site-template/</link>
+    <description>Recent content on Local EA Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Dec 2017 15:58:33 -0800</lastBuildDate>
+    
+	<atom:link href="https://rtcharity.github.io/lean-site-template/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organization</title>
+      <link>https://rtcharity.github.io/lean-site-template/organizations/</link>
+      <pubDate>Thu, 28 Dec 2017 15:58:33 -0800</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/organizations/</guid>
+      <description>Organizations 
+AMF: The Against Malaria Foundation (AMF) is a non-profit that funds the distribution of long-lasting insecticidal nets (LLIN) to areas with high incidence of malaria, mostly in Africa. GiveWell has recommended AMF as a top charity several times. As of 2017, GiveWell estimated that it costs AMF about $4.22 to distribute one LLIN and $3,000 per equivalent under-5 year old life saved.
+Animal Charity Evaluators investigates the most effective ways of reducing non-human animal suffering.</description>
+    </item>
+    
+    <item>
+      <title>Effective Altruism</title>
+      <link>https://rtcharity.github.io/lean-site-template/effective-altruism/</link>
+      <pubDate>Thu, 28 Dec 2017 15:58:29 -0800</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/effective-altruism/</guid>
+      <description>Effective altruism is a philosophy and social movement that applies evidence and reason to determine the most effective ways to improve the world. Effective altruists aim to consider all causes and actions, and then act in the way that brings about the greatest positive impact. It is this broad evidence-based approach that distinguishes effective altruism from traditional altruism or charity. While a substantial proportion of effective altruists have focused on the nonprofit sector, the philosophy of effective altruism applies much more broadly, e.</description>
+    </item>
+    
+    <item>
+      <title>Key Terms</title>
+      <link>https://rtcharity.github.io/lean-site-template/key-terms/</link>
+      <pubDate>Thu, 28 Dec 2017 15:58:20 -0800</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/key-terms/</guid>
+      <description>Key EA Terms 
+Core Ideas Effective altruism: Effective altruism (EA) is the name of a growing social movement and an idea – based around using evidence and reason to find the most effective possible ways of doing good in the world. An effective altruist is someone who identifies with and tries to act according to the principles of Effective Altruism.
+Cost-effectiveness: The cost-effectiveness of a charitable intervention simply refers to how much good it does with a certain amount of resources.</description>
+    </item>
+    
+    <item>
+      <title>Reading Material</title>
+      <link>https://rtcharity.github.io/lean-site-template/reading-material/</link>
+      <pubDate>Thu, 28 Dec 2017 15:58:15 -0800</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/reading-material/</guid>
+      <description>Reading Material 
+A lot of material has been developed on how we can go about doing a lot of good. Here is some of the best.
+If you like TED talks, watch Peter Singer’s The Why and How of Effective Altruism or check out any of the other TED talks and presentations on effective altruism. The Life You Can Save (Singer’s first book on Effective Altruism) in 3 minutes is also a great watch.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rtcharity.github.io/lean-site-template/contact/</link>
+      <pubDate>Wed, 27 Dec 2017 02:15:52 -0800</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/contact/</guid>
+      <description>This is the contact page</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://rtcharity.github.io/lean-site-template/faq/</link>
+      <pubDate>Wed, 27 Dec 2017 02:15:52 -0800</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/faq/</guid>
+      <description>Frequently Asked Questions 
+So what is effective altruism? The core idea:
+Effective altruism is using evidence and analysis to take actions that help others as much as possible.
+The world has a lot of horrible problems but we can’t work on them all at once. Our goal is to accomplish the most good for the world with our limited time, energy, and resources.
+There is a lot of agreement among people in the movement about what questions we should ask when figuring out what will help others the most.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rtcharity.github.io/lean-site-template/_footer-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/_footer-left/</guid>
+      <description> More on EA  Intro to effective altruism Video: The Why and How of Effective Altruism Giving 101: The Basics Doing Good Better by Will MacAskill Centre for Effective Altruism  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rtcharity.github.io/lean-site-template/_footer-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/_footer-right/</guid>
+      <description> Useful links  effectivealtruism.org 80000 Hours GiveWell The Life You Can Save Centre for Effective Altruism Rethink Charity  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rtcharity.github.io/lean-site-template/homepage/_first_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/homepage/_first_section_text/</guid>
+      <description>We want to help you use evidence and reason to make the world a better place.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rtcharity.github.io/lean-site-template/homepage/_second_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/homepage/_second_section_text/</guid>
+      <description>We are a welcoming group dedicated to promoting, inspiring and supporting one another to achieve altruistic goals.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rtcharity.github.io/lean-site-template/homepage/_third_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/lean-site-template/homepage/_third_section_text/</guid>
+      <description>Some projects are thousands of times more effective than others. We apply logic and research to maximise our impact.</description>
+    </item>
+    
+  </channel>
+</rss>

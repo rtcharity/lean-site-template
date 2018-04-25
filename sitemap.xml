@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/organizations/</loc>
+    <lastmod>2017-12-28T15:58:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/effective-altruism/</loc>
+    <lastmod>2017-12-28T15:58:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/key-terms/</loc>
+    <lastmod>2017-12-28T15:58:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/reading-material/</loc>
+    <lastmod>2017-12-28T15:58:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/contact/</loc>
+    <lastmod>2017-12-27T02:15:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/faq/</loc>
+    <lastmod>2017-12-27T02:15:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/_footer-left/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/_footer-right/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/</loc>
+    <lastmod>2017-12-28T15:58:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/homepage/_first_section_text/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/homepage/_second_section_text/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/homepage/_third_section_text/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/homepage/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rtcharity.github.io/lean-site-template/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
