@@ -1,3 +1,5 @@
+# Note: this project is no longer maintained
+
 # LEAN site template
 
 Welcome to the GitHub repository containing all the code/files you'll need in order to start a new Local EA site! You can see an example of what it'll look like at https://rtcharity.github.io/lean-site-template/.
